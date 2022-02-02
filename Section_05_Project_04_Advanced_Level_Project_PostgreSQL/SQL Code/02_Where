@@ -1,0 +1,6 @@
+SELECT
+	*
+FROM
+	cars_results
+WHERE
+	"Brand" = 'Jeep' AND "Year" >= 2015

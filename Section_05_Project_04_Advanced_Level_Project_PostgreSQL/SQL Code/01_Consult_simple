@@ -1,0 +1,4 @@
+SELECT
+	*
+FROM
+	cars_results
